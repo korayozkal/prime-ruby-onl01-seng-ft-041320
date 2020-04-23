@@ -25,7 +25,5 @@ def primes(num):
 			if isPrime(i):
 				primes.append(i)
 	return primes
-
-num = 121
-nums = primes(num)
-print nums
+end
+end
